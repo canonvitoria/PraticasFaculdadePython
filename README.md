@@ -26,4 +26,3 @@
   <li><strong>Submeta um pull request:</strong> Explique as alterações que você fez para revisão.</li>
 </ul>
 
-<h2>Recursos Adicionais<h2>
