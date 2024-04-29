@@ -27,5 +27,3 @@
 </ul>
 
 <h2>Recursos Adicionais<h2>
-Para problemas com o repositório, abra uma [issue](link para issues) ou entre em contato com o mantenedor do repositório.
-Aproveite seus estudos e boas práticas!
