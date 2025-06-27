@@ -21,5 +21,3 @@
 # else:
 #     dias = 31
 # print(f"Total de dias: {dias}")
-
-
